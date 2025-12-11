@@ -15,7 +15,7 @@ The dataset used in this project is **100% self-generated**, making this a compl
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 data/               → Raw & cleaned datasets  
 scripts/            → Python scripts for data collection & feature generation  
@@ -24,7 +24,7 @@ documentation/      → Project explanation, methods & insights
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 To detect and visualize **Cognitive Micro-Pattern Drift** — tiny changes in a person’s behaviour that indicate:
 
@@ -38,7 +38,7 @@ All visualized through **Power BI** and **Tableau** interactive dashboards.
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Python (data collection + preprocessing)  
 - Power BI (behaviour drift dashboard)  
@@ -47,7 +47,7 @@ All visualized through **Power BI** and **Tableau** interactive dashboards.
 
 ---
 
-## ⭐ Why This Project Is Special
+##  Why This Project Is Special
 
 - Dataset is **self-collected**, not downloaded  
 - Concept is **not available anywhere online**  
@@ -56,7 +56,7 @@ All visualized through **Power BI** and **Tableau** interactive dashboards.
 
 ---
 
-## 🚀 Status
+##  Status
 
 - Step 1: GitHub setup ✔️  
 - Step 2: Dataset collection (next step)  
@@ -65,6 +65,6 @@ All visualized through **Power BI** and **Tableau** interactive dashboards.
 
 ---
 
-## 📧 Author  
+##  Author  
 Supra Karsha S  
 (Unique Data Analytics Portfolio Project)
